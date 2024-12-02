@@ -25,7 +25,7 @@ DS4002-PI
     - Brightness_output.pdf
     -  RGB_output.pdf
 - Scripts
-    - DS4002CaseStudy.ipynb
+    - ds4002p3movieanalysis.ipynb
 - References
 [1] “150 essential comedy movies to Watch now,” Rotten Tomatoes 150 Essential Comedy Movies To Watch Now Comments, https://editorial.rottentomatoes.com/guide/essential-comedy-movies/  (accessed Nov. 11, 2024). 
 [2] “200 best horror movies of all time,” Rotten Tomatoes 200 Best Horror Movies of All Time Comments, https://editorial.rottentomatoes.com/guide/best-horror-movies-of-all-time/  (accessed Nov. 11, 2024). 
